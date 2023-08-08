@@ -1,6 +1,6 @@
 Calculator App:
 
-The Calculator App is a simple and user-friendly calculator application built using HTML, CSS, and JavaScript. It provides basic arithmetic operations and a clean interface for performing calculations.
+The Calculator App is a simple and user-friendly calculator application built using Kotlin and Xml. It provides basic arithmetic operations and a clean interface for performing calculations.
 
 Features:
 Addition, subtraction, multiplication, and division operations.
